@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="device/xiaomi/whyred" name="Umang96/android_device_xiaomi_whyred" remote="github" revision="lineage-15.1" />
+  <project path="kernel/xiaomi/sdm660" name="Umang96/android_kernel_xiaomi_sdm660" remote="github" revision="oreo-mr1" />
+  <project path="vendor/xiaomi" name="TheMuppets/proprietary_vendor_xiaomi" clone-depth="1" remote="github" revision="lineage-15.1" />
+  <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" remote="github" revision="lineage-15.1" />
+</manifest>
