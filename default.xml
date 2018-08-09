@@ -7,6 +7,9 @@
 
   <remote  name="private"
            fetch="ssh://git@github.com" />
+           
+  <remote name="opengapps"
+  	  fetch="https://github.com/opengapps/"/>
 
   <remote  name="aosp"
            fetch="https://android.googlesource.com"

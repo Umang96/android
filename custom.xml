@@ -3,4 +3,8 @@
   <project path="prebuilts/clang/host/linux-x86" name="Cardinal-AOSP/prebuilts_clang_host_linux-x86" groups="pdk" clone-depth="1" revision="oreo-mr1" remote="github" />
   <project path="frameworks/base" name="Umang96/android_frameworks_base" revision="lineage-15.1" remote="github" />
   <project path="vendor/xiaomi/MiuiCamera" name="jhenrique09/vendor_xiaomi_MiuiCamera" clone-depth="1" revision="master" remote="github" />
+  <project path="vendor/opengapps/build" name="aosp_build" revision="master" remote="opengapps" />
+  <project path="vendor/opengapps/sources/all" name="all" clone-depth="1" revision="master" remote="opengapps" />
+  <project path="vendor/opengapps/sources/arm" name="arm" clone-depth="1" revision="master" remote="opengapps" />
+  <project path="vendor/opengapps/sources/arm64" name="arm64" clone-depth="1" revision="master" remote="opengapps" />
 </manifest>
